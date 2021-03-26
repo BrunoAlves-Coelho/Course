@@ -25,6 +25,7 @@ namespace Course
             Console.WriteLine(orderStatus);
             Console.WriteLine(txt);
 
+            Console.WriteLine("Mensagem de teste do Git");
 
         }
     }
